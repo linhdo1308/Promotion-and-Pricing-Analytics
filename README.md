@@ -8,3 +8,8 @@
 2. How price-sensitive are shoppers? Price elasticity by category and brand.
 3. Do promos make money? Promo ROI after margin given up, plus pull-forward (sales stolen from the weeks after).
 4. What should we run next quarter? A recommended promo calendar and price points.
+
+A JBP (Joint Business Planning) is only as strong as the data behind it. Analysts help the Key Account Manager walk into the meeting with:
+- Last year’s results: what worked and which promos actually brought incremental sales
+- Category insights: where the category is growing and which shoppers to target
+- Opportunity sizing: “if you give us X more shelf space, we expect Y more sales”
