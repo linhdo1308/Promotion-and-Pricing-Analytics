@@ -13,3 +13,14 @@ A JBP (Joint Business Planning) is only as strong as the data behind it. Analyst
 - Last year’s results: what worked and which promos actually brought incremental sales
 - Category insights: where the category is growing and which shoppers to target
 - Opportunity sizing: “if you give us X more shelf space, we expect Y more sales”
+
+
+**Interview positioning**:  
+
+A data analyst who brings US retailer, promo and e-commerce analytics experience, and can build the data foundation to support a Vietnamese CPG’s growth in modern trade and online
+
+I help turn trade spend into proven growth for both the brand and the retailer.
+
+- Promo effectiveness: measure true incremental lift (net of cannibalization and the post-promo dip) by promo type, store type and region, so future promo plans put money where it actually works → cuts wasted trade spend
+- Shopper insight: identify which promos bring in new shoppers to the brand or category versus just discounting for loyal buyers → builds long-term revenue, not one-off spikes
+- JBP proof: show the retailer how our brand grows their category (new shoppers, basket size, category sales), not just our share → wins better shelf space, displays and listings
